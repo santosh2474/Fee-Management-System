@@ -19,15 +19,18 @@ Install the dependencies using:
 pip install pillow openpyxl pandas
 How to Use the Software
 1. Running the Application
+
 ✓ Open a terminal or command prompt.
 ✓ Navigate to the directory containing the project files.
 ✓ Run the main script:
  python main.py
+
 2. Login and User Authentication
 - On the login screen, enter User ID and Password.
  - Sample credentials:
  - User: `admin`, Password: `password`
 - Click Login to access the dashboard.
+
 3. Modules and Features
 ✓ Registration Module (`sreg.py`):
  - Add student details, including photos and contact information.
@@ -43,6 +46,7 @@ How to Use the Software
 ✓ View Student Details (`students_details.py`):
  - Search and filter student data based on name, year, or student ID.
  - Print student information with attached photos.
+
 4. Generating Reports
 - HTML Payment Reports: Available from the Fee Management Module by selecting a date range.
 - Daily Payment Summary: View total paid fees for a specific day.
@@ -51,9 +55,11 @@ How to Use the Software
 - `receipts/`: Stores receipt images.
 - `student_photos/`: Stores photos for registered students.
 - `logo_folder/`: Contains the logo used on receipts and screens.
+
 6. Common Issues
 - Logo not found: Ensure the logo is placed in the `logo_folder` directory.
 - Excel files missing: The system creates required Excel files on the first run if they do not exist.
+
 7. Contact Information
 If you encounter issues, reach out to the developer:
 - Developer: Er. Santosh Thakur
