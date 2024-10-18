@@ -62,6 +62,7 @@ If you encounter issues, reach out to the developer:
 - Website: www.santoshthakur.online
 This README should guide you through the setup and usage of the Fees Management System effectively. Enjoy using
 the software! 
+
 SCREENSHOT:
 ![image](https://github.com/user-attachments/assets/9b6088f6-320f-4314-b4d5-c765a0301157)
 ![image](https://github.com/user-attachments/assets/7ce71a63-53b0-4831-b767-4d51a093d89b)
