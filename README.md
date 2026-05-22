@@ -65,7 +65,7 @@ If you encounter issues, reach out to the developer:
 - Developer: Er. Santosh Thakur
 - Contact No.: +977-9804743283
 - Email: santoshthakur@engineer.com
-- Website: www.santoshthakur.online
+- Website: www.santoshthakur.info.np
 This README should guide you through the setup and usage of the Fees Management System effectively. Enjoy using
 the software!
 
